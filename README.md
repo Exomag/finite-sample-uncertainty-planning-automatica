@@ -15,10 +15,10 @@ In order to reproduce the simulations and plots of the paper, navigate inside th
 Please cite the original paper when using any part of this code. BibTeX citation data:
 ```
 @article{Lefkopoulos2021,
-	author	  	= "V.~Lefkopoulos and M.~Kamgarpour",
-	title	  	= "Trajectory Planning Under Environmental Uncertainty With Finite-Sample Safety Guarantees",
+	author	    = "V.~Lefkopoulos and M.~Kamgarpour",
+	title	    = "Trajectory Planning Under Environmental Uncertainty With Finite-Sample Safety Guarantees",
 	journal     = "Automatica", 
-	year	  	= "2021",
+	year	    = "2021",
 	volume      = "131",
 	pages       = "109754",
 }
